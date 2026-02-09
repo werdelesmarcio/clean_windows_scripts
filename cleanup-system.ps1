@@ -1,6 +1,7 @@
 # ================================
 # Script: Cleanup & Optimization
 # Autor: Marcio (gh05tb0y) Soares 😎
+# ATENÇÃO: LIBERAR EXECUÇÃO DO SCRIPT PROVISÓRIAMENTE: SetExecution Policy Unrestricted
 # ================================
 
 # Verifica se está rodando como admin
